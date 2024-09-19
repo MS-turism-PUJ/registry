@@ -12,7 +12,7 @@
 	<artifactId>registry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>registry</name>
-	<description>Eureka registry</description>
+	<description>Eureka registry for turismo project</description>
 	<url/>
 	<licenses>
 		<license/>
